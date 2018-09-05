@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icons/menu.png</file>
+        <file>icons/ic_launcher.png</file>
+        <file>icons/Font Awesome 5 Pro-Light-300.otf</file>
+        <file>icons/Font Awesome 5 Pro-Regular-400.otf</file>
+        <file>icons/Font Awesome 5 Pro-Solid-900.otf</file>
+        <file>translations/fa-IR.ts</file>
+        <file>frmNewADS.qml</file>
+        <file>frmMyADS.qml</file>
+        <file>frmStaredADS.qml</file>
+        <file>frmMainAdsWindow.qml</file>
+        <file>FrmItemInList.qml</file>
+        <file>icons/sampleImage.png</file>
+        <file>frmNetworkError.qml</file>
+        <file>icons/network-error.png</file>
+        <file>frmAboutUs.qml</file>
+        <file>fonts/Sahel.ttf</file>
+        <file>db/dataCore.db</file>
+        <file>frmSplashScreen.qml</file>
+        <file>frmNotingFound.qml</file>
+        <file>icons/404.png</file>
+        <file>frmTakePicture.qml</file>
+        <file>icons/selectImage.png</file>
+        <file>icons/success-icon.png</file>
+        <file>icons/pin.png</file>
+    </qresource>
+</RCC>
